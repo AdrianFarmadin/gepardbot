@@ -1,1 +1,3 @@
-# gepardbot
+# Gepardbot
+
+Scripts für Gepardec bot.
